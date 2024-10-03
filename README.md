@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kietvu99
 - 👀 I’m interested in ... sports, outdoor activities and playing chess
 - 🌱 I’m currently learning ...Java scripts, target shooting
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on some new projects
 - 📫 How to reach me ... jvu2004@gmail.com
 - 😄 Pronouns: ...Kieet
 - ⚡ Fun fact: ...I play ping pong and Chinese chess comparatively 
